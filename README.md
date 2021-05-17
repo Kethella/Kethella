@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kethella
-- 👀 I’m interested in game development and machine learning
+- 👀 I’m interested in cognitive development through game development and machine learning
 - 🌱 I’m currently learning Python and Java.
 - 📫 How to reach me: kethella.oliveira@gmail.com
 
