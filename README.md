@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kethella
-- 👀 I’m interested in cognitive development through game development and machine learning
-- 🌱 I’m currently learning Python and Java.
+- 👀 I’m interested in software development and web development
+- 🌱 I’m currently studying Computer science and Media in Germany
 - 📫 How to reach me: kethella.oliveira@gmail.com
 
 <!---
